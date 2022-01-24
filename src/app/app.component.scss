@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #7daaa4 !important; 
+    font-weight: bold;
+    .container-fluid{
+        justify-content: center;
+        .navbar-brand{
+            font-family: 'Moon Dance', cursive;
+            font-size: 64px;
+        }
+    }
+}
